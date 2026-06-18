@@ -372,6 +372,16 @@ UserList (autenticado, mostra dashboard)
 
 **URL**: `https://seu-app.vercel.app`
 
+---
+
+## 🚀 Links de Deploy (Em Produção)
+
+✅ **Frontend (Vercel)**: https://portifolio-para-prova.vercel.app/
+
+> Aplicação está **ONLINE** e pronta para usar!
+
+---
+
 ## 📝 Resumo de Features
 
 | Feature | Status | Arquivo |
